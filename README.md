@@ -44,7 +44,10 @@ See also:
 * <https://bhavsac.medium.com/google-calendar-java-api-integration-part-1-d1c89d083986>
 * <https://blog.auryn.dev/posts/google-auth-java/>
 * <https://www.youtube.com/watch?v=gMInK9daNUs>
+* <https://stackoverflow.com/questions/58873622/googles-refresh-access-token-api-not-working-from-springboot>
 
+For working with Google Calendar Events:
+* <https://stackoverflow.com/questions/76141894/how-do-i-pass-a-google-calendar-event-via-a-spring-boot-controller-as-the-json-r>
 
 # Versions
 * Java: 17
